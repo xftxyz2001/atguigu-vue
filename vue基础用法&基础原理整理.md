@@ -1,4 +1,4 @@
-﻿﻿﻿﻿# vue基础用法&基础原理整理
+﻿﻿# vue基础用法&基础原理整理
 
 # 1. vue基础知识和原理
 
@@ -6002,7 +6002,7 @@ export default router
 
 参考文章：
 
-1. 尚硅谷主讲的vue：https://www.bilibili.com/video/BV1Zy4y1K7SH?p=77&spm_id_from=pageDriver
+1. 尚硅谷主讲的vue：https://www.bilibili.com/video/BV1Zy4y1K7SH
 2. 现代JavaScript：https://zh.javascript.info/
 3. MDN文档：https://developer.mozilla.org/zh-CN/docs/Web
 4. 我是你的超级英雄 https://juejin.cn/post/6844903895467032589
