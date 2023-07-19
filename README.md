@@ -1,10 +1,12 @@
 # 尚硅谷Vue2.0+Vue3.0全套教程相关
 - [Vue全家桶.pdf](./尚硅谷_前端技术_Vue全家桶.pdf)
-  - [Vue基础](./vue基础用法&基础原理整理.md)
+- [脚手架部分笔记](./vue_test/README.md)
 - [Vue3快速上手](./vue3快速上手.md)
-  - [Vue3](./vue3.md)
 
-- [vue源码](./vue源码.md)
+格雷狐思的Vue笔记
+- [Vue基础](./vue基础用法&基础原理整理.md)
+- [Vue3](./vue3.md)
+- [Vue源码](./vue源码.md)
 
 
 链接
