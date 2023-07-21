@@ -12,3 +12,6 @@
 链接
 - [bilibili-尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH)
 - [gitee-格雷狐思/笔记/vue](https://gitee.com/gaohan888/note/tree/master/vue)
+- [微客鸟窝的学习笔记](https://wekenw.gitee.io/)
+  - [vue示例文档](https://wekenw.gitee.io/vuedoc/)
+  - [vue学习笔记](https://wekenw.gitee.io/vuenote/)
