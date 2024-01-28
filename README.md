@@ -2,6 +2,7 @@
 - [Vue全家桶.pdf](./尚硅谷_前端技术_Vue全家桶.pdf)
 - [脚手架部分笔记](./vue_test/README.md)
 - [Vue3快速上手](./vue3快速上手.md)
+- [TypeScript 极速梳理.pdf](./TypeScript%20极速梳理.pdf)
 
 格雷狐思的Vue笔记
 - [Vue基础](./vue基础用法&基础原理整理.md)
@@ -9,8 +10,9 @@
 - [Vue源码](./vue源码.md)
 
 
-链接
+## 链接
 - [bilibili-尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH)
+- [bilibili-尚硅谷Vue3入门到实战，最新版vue3+TypeScript前端开发教程](https://www.bilibili.com/video/BV1Za4y1r7KE)
 - [gitee-格雷狐思/笔记/vue](https://gitee.com/gaohan888/note/tree/master/vue)
 - [微客鸟窝的学习笔记](https://wekenw.gitee.io/)
   - [vue示例文档](https://wekenw.gitee.io/vuedoc/)
